@@ -1,1 +1,1 @@
-# Famemo Blog Serice
+# Famemo Blog Service
