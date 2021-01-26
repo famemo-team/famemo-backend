@@ -1,1 +1,1 @@
-# famemo-backend
+# Famemo Blog Service
